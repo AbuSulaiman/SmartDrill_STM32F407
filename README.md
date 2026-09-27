@@ -1,0 +1,1 @@
+(STM32F407, TPDV1240 Triac, MOC3021, 6N136, ILI9341 Display, Hall Sensor)
